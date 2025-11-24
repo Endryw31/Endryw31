@@ -1,9 +1,10 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7b150eb6-aa4b-4a12-8f8c-bc747e5df1a9" /># 👋 Olá, eu sou o Endryw Vieira de Oliveira!
+# 👋 Olá, eu sou o Endryw Vieira de Oliveira!
 
 💻 **Desenvolvedor Full-Stack** com foco em criar soluções modernas, seguras e inteligentes que conectam automação, banco de dados e interfaces de alta performance.  
 🚀 Experiência sólida com **React.js, Next.js, Node.js, Python e MySQL**, integrando front-end e back-end com precisão.  
 🎨 Apaixonado por **UI/UX Design**, **otimização de processos** e **análises baseadas em dados reais**.  
 
+- **⚙️ Github Principal:** [github.com/Endrywvo](https://github.com/Endrywvo) 
 ---
 
 ## 🧠 Sobre mim
@@ -71,8 +72,6 @@ Sistema de **credenciamento corporativo** e gerenciamento de acessos internos.
 ## 📫 Contato
 📧 **Email:** [endryw.dev@gmail.com](mailto:endryw.dev@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/endrywvo](https://linkedin.com/in/endrywvo)  
-
- **Github Principal:** [github.com/Endrywvo](https://github.com/Endrywvo) 
 🌐 **Portfólio (em desenvolvimento):** *endrywvo.dev*  
 
 ---
